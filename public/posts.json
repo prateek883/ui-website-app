@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "type": "article",
+    "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+    "text": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+    "creator": "Sarthak Kamra",
+    "image": "./images/posts/1.png"
+  },
+  {
+    "id": 2,
+    "type": "education",
+    "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+    "text": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+    "creator": "Sarah West",
+    "image": "./images/posts/2.png"
+  },
+  {
+    "id": 3,
+    "type": "meetup",
+    "title": "Finance & Investment Elite Social Mixer @Lujiazui",
+    "date": "Fri, 12 Oct, 2018",
+    "location": "Ahmedabad, India",
+    "creator": "Ronal Jones",
+    "image": "./images/posts/3.png"
+  },
+  {
+    "id": 4,
+    "type": "job",
+    "title": "Software Developer",
+    "company": "Innovaccer Analytics Private Ltd.",
+    "location": "Noida, India",
+    "creator": "Joseph Gray"
+  }
+]

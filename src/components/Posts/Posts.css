@@ -1,0 +1,35 @@
+
+
+.posts nav > a {
+  margin-top: 0.2rem;
+  padding-bottom: 1.5rem;
+}
+.posts nav > a.active {
+  border-radius: 0 !important;
+  border-bottom: 1px solid black;
+  /* padding-bottom: 0.5rem; */
+  padding-bottom: 1.5rem;
+}
+
+
+
+.posts .options .write-a-post {
+  background: #EDEEF0;
+}
+
+.btn-meetup {
+  color: #E56135;
+}
+
+.btn-job {
+  color: #02B875;
+}
+
+@media screen and (max-width: 514px) {
+  .posts > div:nth-child(2) > div.col-4 { display: none; }
+
+  .posts__col {
+    flex: 0 0 auto!important;
+    width: 100%!important;
+  }
+}

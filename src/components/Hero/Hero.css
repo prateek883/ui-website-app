@@ -1,0 +1,36 @@
+.hero {
+  /* height: 440px; */
+  margin-bottom: 2rem;
+}
+
+.hero .card{
+  border: none;
+}
+
+.hero .card-img-overlay {
+  background-color: #0000007a;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.hero .card-text {
+  margin-bottom: 3em;
+  font-size: 0.8em;
+}
+
+
+@media screen and (max-width: 514px) {
+ .hero .card-title {
+    margin-left: 1rem!important;
+ }
+ .hero .card-text {
+    margin-left: 1rem!important;
+    margin-bottom: 0!important;
+ }
+ .hero img {
+    height: 35vh;
+    object-fit: cover;
+ }
+}
